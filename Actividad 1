@@ -1,0 +1,39 @@
+</header>
+
+<div class="wrapper">
+    <div class="hero">
+<div class="row">
+<div class="large-12 columns">
+<h1><img src="/dashboard/images/xampp-logo.svg" />XAMPP <span>Apache + MariaDB + PHP + Perl</span></h1>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="large-12 columns">
+<h2><a>BAÑUELOS CAYETANO IVAN DAVID</a><br>
+FONTES DOMINGUEZ DANIEL JESIEL<br>
+HERNANDEZ CAAMAL ANDREI <br>
+</div>
+</div>
+
+<div class="row">
+<div class="large-12 columns">
+<p>
+You have successfully installed XAMPP on this system! Now you can start using Apache, MariaDB, PHP and other components.
+You can find more info in the <a href="/dashboard/faq.html">FAQs</a> section or check the
+<a href="/dashboard/howto.html">HOW-TO Guides</a> for getting started with PHP applications.
+</p>
+
+<p>
+XAMPP is meant only for development purposes. It has certain configuration settings that make it easy to develop locally but that are insecure if you want to have your installation accessible to others.
+</p>
+
+<p>
+Start the XAMPP Control Panel to check the server status.
+</p>
+
+</div>
+</div>
+
+<div class="row">
