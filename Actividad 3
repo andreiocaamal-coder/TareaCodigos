@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Currículum – Ivan David Bañuelos Cayetano</title>
+</head>
+
+<body>
+
+<h1>Currículum Personal</h1>
+
+<h2>Datos personales</h2>
+<p><strong>Nombre:</strong> Ivan David Bañuelos Cayetano</p>
+<p><strong>Teléfono:</strong> 2261159693</p>
+<p><strong>Correo electrónico:</strong> farrukobanuelo995@gmail.com</p>
+<p><strong>Ciudad:</strong> Veracruz, Ver., México</p>
+
+<h2>Perfil personal</h2>
+<p>
+Soy una persona responsable, con ganas de aprender y mejorar constantemente.
+Me gusta adquirir nuevos conocimientos y trabajar en equipo para lograr objetivos.
+Me considero alguien comprometido, organizado y con buena actitud para enfrentar nuevos retos.
+</p>
+
+<h2>Educación</h2>
+<ul>
+<li>Primaria: Escuela Primaria Artículo Tercero</li>
+<li>Secundaria: ETI Número 1</li>
+<li>Bachillerato: Bachilleres Vespertino de Veracruz</li>
+</ul>
+
+<h2>Habilidades</h2>
+<ul>
+<li>Trabajo en equipo</li>
+</ul>
+
+</body>
+</html>
